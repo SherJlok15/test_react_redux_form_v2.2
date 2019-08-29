@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test_react_redux_form_v2.2/static/css/main.cf9dfe26.chunk.css",
+    "main.js": "/test_react_redux_form_v2.2/static/js/main.5f0ca539.chunk.js",
+    "main.js.map": "/test_react_redux_form_v2.2/static/js/main.5f0ca539.chunk.js.map",
+    "runtime~main.js": "/test_react_redux_form_v2.2/static/js/runtime~main.f186612e.js",
+    "runtime~main.js.map": "/test_react_redux_form_v2.2/static/js/runtime~main.f186612e.js.map",
+    "static/js/2.540d7cde.chunk.js": "/test_react_redux_form_v2.2/static/js/2.540d7cde.chunk.js",
+    "static/js/2.540d7cde.chunk.js.map": "/test_react_redux_form_v2.2/static/js/2.540d7cde.chunk.js.map",
+    "index.html": "/test_react_redux_form_v2.2/index.html",
+    "precache-manifest.719955ea583c695cd0be28681ad8159f.js": "/test_react_redux_form_v2.2/precache-manifest.719955ea583c695cd0be28681ad8159f.js",
+    "service-worker.js": "/test_react_redux_form_v2.2/service-worker.js",
+    "static/css/main.cf9dfe26.chunk.css.map": "/test_react_redux_form_v2.2/static/css/main.cf9dfe26.chunk.css.map",
+    "static/media/App.css": "/test_react_redux_form_v2.2/static/media/OpenSansRegular.de0869e3.woff",
+    "static/media/shape.svg": "/test_react_redux_form_v2.2/static/media/shape.57d1eddd.svg"
+  }
+}
